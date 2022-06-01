@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>review Archives - BigWing</title>
+	<atom:link href="/tag/review/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 31 May 2022 16:03:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/Red-Bold-Initial-B-Letter-Wing-Brand-Logo-150x150.png</url>
+	<title>review Archives - BigWing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NEXTDNS Review</title>
+		<link>/nextdns-review/</link>
+					<comments>/nextdns-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Black PirateX]]></dc:creator>
+		<pubDate>Thu, 26 May 2022 05:56:28 +0000</pubDate>
+				<category><![CDATA[Review]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[nextdns]]></category>
+		<category><![CDATA[review]]></category>
+		<guid isPermaLink="false">/?p=296</guid>
+
+					<description><![CDATA[<p>What is DNS? All website has an IP,&#160; it is necessary so that you can get all the HTML CSS, or Javascript file to render the webpage when you try to visit the website. What a DNS does is, connects your domain to your website&#8217;s server IP. We, humans, are not that good at remembering&#8230;&#160;<a href="/nextdns-review/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">NEXTDNS Review</span></a></p>
+<p>The post <a rel="nofollow" href="/nextdns-review/">NEXTDNS Review</a> appeared first on <a rel="nofollow" href="/">BigWing</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="296" class="elementor elementor-296">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-55746673 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55746673" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-292bfaf1" data-id="292bfaf1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-25ec820e elementor-widget elementor-widget-text-editor" data-id="25ec820e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:heading -->
+<h2>What is DNS?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>All website has an IP,&nbsp; it is necessary so that you can get all the HTML CSS, or Javascript file to render the webpage when you try to visit the website. What a DNS does is, connects your domain to your website&#8217;s server IP. We, humans, are not that good at remembering numbers but we can remember a name for example <strong>google.com</strong> easily. A DNS serves this purpose.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In simpler words, DNS is a phone book of the internet. It keeps track of all the domains and the IP address it&#8217;s pointing to.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Why you should use a custom DNS?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your DNS provider can see your DNS queries, which means they can see the domain you are connecting to. For example, if you have searched for what&#8217;s today&#8217;s weather on Google, they cannot see (Because google.com has SSL) what question you are typing, but they can see you&#8217;re connecting to Google. So if you are using a DNS server from Google or cloud flare, they now have all the logs of those domains you are connecting to. It is a very big privacy concern. To overcome this, we are going to use custom DNS like <a href="https://nextdns.io/?from=gy8cfv84">NextDNS</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>NEXTDNS Features</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nextdns is a very feature-rich DNS service. They have a free plan as well as a paid plan. Paid plans might sound expensive for something as simple as DNS, but it is worth it. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>ADBLOCKING</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NextDNS comes with an ad-blocking built-in. It is very easy to set up. After you have created your nextdns account, you can start creating your configuration. Give it any name you want or go with the default one. Now go to the privacy section and turn on a few ad blockers. I would suggest the following adblockers.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>NEXTDNS Ads &amp; Trackers blocklist</li><li>Adguard DNS filter</li><li>Adguard tracking protection filter.</li><li>Adguard base filter.</li><li>NSA Blocklist</li><li>notracking</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":304,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img width="543" height="1024" src="/wp-content/uploads/2022/05/nextdns-2-543x1024.png" alt="" class="wp-image-304" srcset="/wp-content/uploads/2022/05/nextdns-2-543x1024.png 543w, /wp-content/uploads/2022/05/nextdns-2-159x300.png 159w, /wp-content/uploads/2022/05/nextdns-2-768x1449.png 768w, /wp-content/uploads/2022/05/nextdns-2-814x1536.png 814w, /wp-content/uploads/2022/05/nextdns-2.png 848w" sizes="(max-width: 543px) 100vw, 543px" /><figcaption>NEXTDNS</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>These are some of the blocklists that I use for my NEXTDNS setup. You can always add more by clicking on Add a Blocklist option. It is pretty easy to remove too. Click on the X icon at the top right corner of each added blocklist. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Add your NextDNS to any device</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NextDNS offers many different ways to use your DNS across all your devices. You can use their DNS by DNS over TLS or DNS over HTTPS. They also provide IPV6 addresses too. You can use their android app to connect to nextdns through a VPN. Although better methods are available for connecting to nextdns. Check their homepage for more information.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Parental Controls</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NextDNS has parental control built-in. If you are a parent and you want to restrict access to certain websites you will love this feature. You can block any apps or websites within one click. You can furthermore enable safe search and restricted mode on YouTube. If your child is smart, they would try to bypass this blocking. You solve this by facilitating their block bypass methods feature.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Denylist &amp; Allowlist</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If this is not enough, you can always use Denylist and allow the list. Denylist lets you completely block certain websites. For example, I have blocked Facebook.com, so no matter what it won&#8217;t connect to Facebook.com and I would be &#8216;free&#8217; from Facebook tracking to some extent. Allow list is the opposite, if you have some website on allow list, it would not get blocked no matter what.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Analytics</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Analytics and logs are there, but if you are privacy-conscious you should turn them off. But if you need to spy on someone (ahem) you can turn it on and see the domains they are connecting to.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>NextDNS is free for most people. And it&#8217;s great. You can block ads and have privacy benefits too. I&#8217;ve been using nextdns for a few years now and so far it&#8217;s been great. I&#8217;d like you to give it a try. Use our referral link to sign up here.&nbsp;</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c54c50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c54c50" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bb1d75f" data-id="bb1d75f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6c404eb elementor-widget elementor-widget-heading" data-id="6c404eb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Frequently asked Questions</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cbc63ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbc63ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a408f98" data-id="a408f98" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f34e253 elementor-widget elementor-widget-accordion" data-id="f34e253" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-accordion{text-align:left}.elementor-accordion .elementor-accordion-item{border:1px solid #d4d4d4}.elementor-accordion .elementor-accordion-item+.elementor-accordion-item{border-top:none}.elementor-accordion .elementor-tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{display:inline-block;width:1.5em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon svg{width:1em;height:1em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right{float:right;text-align:right}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d4d4d4}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}</style>		<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-2551" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-2551" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Is NextDNS secure?</a>
+					</div>
+					<div id="elementor-tab-content-2551" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2551"><p>NextDNS prevents advertisements and trackers on websites and applications and provides a secure and supervised Internet for kids – on all devices and networks. None necessary. Set your preferences later.</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-2552" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-2552" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Who owns NextDNS?</a>
+					</div>
+					<div id="elementor-tab-content-2552" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-2552"><p>NextDNS was established in May of 2019 in the state of Delaware, United States of America, by two French entrepreneurs by the names of Romain Cointepas and Olivier Poitrey.</p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-2553" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-2553" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Is NextDNS fast?</a>
+					</div>
+					<div id="elementor-tab-content-2553" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-2553"><p>NextDNS is one of the best / quickest DNS providers. Both founders must be networking experts. It&#8217;s good because I have latency intolerance.</p></div>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a rel="nofollow" href="/nextdns-review/">NEXTDNS Review</a> appeared first on <a rel="nofollow" href="/">BigWing</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nextdns-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
